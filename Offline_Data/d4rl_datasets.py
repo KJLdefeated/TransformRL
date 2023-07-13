@@ -6,7 +6,6 @@ import pickle
 
 import d4rl
 
-
 datasets = []
 
 for env_name in ['halfcheetah', 'hopper', 'walker2d']:
